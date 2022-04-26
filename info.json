@@ -26,7 +26,7 @@
     },
     {
       "name": "Ipsum",
-      "picture": "/img/ipsum.png",
+      "picture": "%PUBLIC_URL%/img/ipsum.png",
       "tech": [
         "t-bone",
         "turkey",
